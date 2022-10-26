@@ -1,2 +1,2 @@
-# MarlanaTest
+# MarlanaGroupTest
 Test task
